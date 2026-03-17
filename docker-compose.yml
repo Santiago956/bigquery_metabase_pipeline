@@ -1,0 +1,12 @@
+services:
+  metabase:
+    image: metabase/metabase:latest
+    container_name: metabase_analytics
+    ports:
+      - "3000:3000"
+    volumes:
+      - ./metabase-data:/metabase-data
+    environment:
+      - MB_DB_TYPE=h2
+      - MB_DB_FILE=/metabase-data/metabase.db
+    restart: always

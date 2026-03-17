@@ -1,0 +1,24 @@
+# Credenciais
+creds/service_account.json
+*.pem
+*.key
+
+# Metabase local database/data
+metabase-data/
+
+# Ambiente
+.env
+.env.*
+
+# Python/Notebook comuns em projetos de dados
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# SO / editor
+.DS_Store
+Thumbs.db
+.vscode/
+
+# Logs
+*.log
