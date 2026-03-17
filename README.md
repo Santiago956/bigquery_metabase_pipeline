@@ -1,4 +1,4 @@
-# Dados_por_Todos-Desafio_01
+# Movie Lens Analytics: Pipeline de dados com GCP e Metabase
 
 Projeto de engenharia e análise de dados com **GCS + BigQuery + Metabase (Docker)** para exploração de dados de filmes do **MovieLens**.
 
