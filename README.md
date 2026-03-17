@@ -9,7 +9,6 @@ Construir uma camada analítica no BigQuery e disponibilizar visualizações no 
 - média de avaliações por filme;
 - evolução temporal de avaliações;
 - relação entre popularidade e qualidade;
-- atividade de usuários;
 - performance por gênero.
 
 ## Arquitetura
