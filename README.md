@@ -1,5 +1,7 @@
 # Movie Lens Analytics: Pipeline de dados com GCP e Metabase
 
+<img width="1644" height="707" alt="image" src="https://github.com/user-attachments/assets/9a420be2-e270-4020-bc9f-665a6cce3831" />
+
 Projeto de engenharia e análise de dados com **GCS + BigQuery + Metabase (Docker)** para exploração de dados de filmes do **MovieLens**.
 
 ## Objetivo
